@@ -1,0 +1,17 @@
+export const COLORS = {
+  black: '#000000',
+  white: '#ffffff',
+  text1: '#333333',
+  placeholder: '#828282',
+  text2: '#4f4f4f',
+  shadowProps: 'rgba(0, 0, 0, 0.75)',
+  signInBtn: '#21D393',
+  blue: 'blue',
+  lightBlue: '#2B82CA',
+  background: '#F2F2F2',
+  red: 'red',
+  black2: '#181A1F',
+  date: '#34A853',
+  background2: '#F5F7FC',
+  skin: '#F9DDBD',
+};
